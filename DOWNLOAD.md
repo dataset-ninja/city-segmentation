@@ -1,6 +1,6 @@
 Dataset **CitySegmentation** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/6tov0ae5b7f2l9co8wuk4/citysegmentation-DatasetNinja.tar?rlkey=4j9ip0yl6ouskcgt67y7ci5ls&dl=1)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/Y/T/Fs/pwifJHFMYTwkdeXS3N3OOKNYqsvV8pnlLjjSCi2v8IavfeUf65jljev1uA3hg7UJq6PM9eFGt90Szxw0YMZyFCfN6Yr8OVvu6fdZ6b9PXYFWThUS9UX9F8GebHFk.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
